@@ -1,2 +1,4 @@
 Health insurance
 Medications 
+Addresses
+Phone numbers
