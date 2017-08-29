@@ -1,4 +1,7 @@
 Health insurance
+Rx ID
+RX Group
+BIN
 Medications 
 Addresses
 Phone numbers
