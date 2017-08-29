@@ -4,6 +4,10 @@ RX Group
 BIN
 Medications 
 Addresses
+Birthdays
+Fill dates 
+refill dates
+refill number
 Phone numbers
 Doctors
 Vets
