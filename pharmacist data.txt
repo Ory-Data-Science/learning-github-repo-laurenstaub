@@ -5,3 +5,6 @@ BIN
 Medications 
 Addresses
 Phone numbers
+Doctors
+Vets
+Nurse practioners 
